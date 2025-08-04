@@ -8,6 +8,4 @@ https://github.com/ShikshaVerma-28/backend
 
 ### 2. Link to your Video Demonstration
 
-(Please ensure the link is publicly accessible)
-
-[Your Google Drive, Loom, or YouTube Link Here]
+https://youtu.be/ZinkCZKOwgQ?si=ObCgHiYjvttuLbBL
